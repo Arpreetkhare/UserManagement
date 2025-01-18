@@ -19,8 +19,8 @@ A Node.js-based User Management System with role-based access control, allowing 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Arpreetkhare/UserManagement.git
+   cd Assigment(FIRST BENCH.AI)-Arpreetkhare
 2. **Install dependencies:**
    ```bash
    npm install
