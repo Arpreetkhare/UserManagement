@@ -61,7 +61,8 @@ A Node.js-based User Management System with role-based access control, allowing 
 | POST   | `/api/admin/superadmin/login` | Login as a superadmin             | N/A                                 | ```json { "email": "admin@example.com", "password": "password123" } ```                                     | ```json { "message": "Login successful", "token": "jwt_token" } ```                       |
 | GET    | `/api/admin/users`            | Get a list of all users           | `Authorization: Bearer <token>`    | N/A                                                                                                         | ```json [ { "name": "User 1", "email": "user1@example.com", "role": "user" } ] ```         |
    
-```
+
+
 
 
    
